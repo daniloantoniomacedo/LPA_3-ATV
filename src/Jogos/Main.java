@@ -92,6 +92,12 @@ public class Main {
 			}
 		}
 		
+		tracejado = null;
+		countVitorias = 0;
+		countDerrotas = 0;
+		countLetras = 0;
+		resposta = ' ';
+		
 	}
 
 	public static char[] gerarPalavra() {
