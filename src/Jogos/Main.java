@@ -113,7 +113,6 @@ public class Main {
 		countLetras = palavra.length();
 
 		return letras;
-
 	}
 
 	public static void validarCaracter(char[] letras) {
@@ -152,7 +151,6 @@ public class Main {
 		}
 		
 		return resultado;
-		
 	}
 	
 	public static void gerarForca() {
@@ -161,7 +159,6 @@ public class Main {
 			System.out.printf("\nVocê deverá acertar a palavra \n"
 					+ "em %d tentativa(s) para vencer o jogo. \n", 7-countDerrotas);
 		}
-
 		switch (countDerrotas) {
 		case 0: 
 
