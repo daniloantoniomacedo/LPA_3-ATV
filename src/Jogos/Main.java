@@ -133,7 +133,6 @@ public class Main {
 		}
 		
 		if (acerto == true) {
-			
 			countVitorias++;
 		}else {
 			countDerrotas++;
